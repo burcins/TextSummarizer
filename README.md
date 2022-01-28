@@ -15,9 +15,6 @@ I was planning to implement both approaches to summarize by using several method
 
 For making trials with different contents, I deployed the extractive summarization model to the huggingface spaces page, you can follow this link below;
 
-[TRY TO SUMMARIZE](https://huggingface.co/spaces/Burcin/ExtractiveSummarizer)
-
-
 <p align="center">
   <b>Model Link:</b><br>
   <a href="https://huggingface.co/spaces/Burcin/ExtractiveSummarizer">TRY TO SUMMARIZE</a> 
