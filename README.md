@@ -18,5 +18,5 @@ For making trials with different contents, I deployed the extractive summarizati
 [TRY TO SUMMARIZE](https://huggingface.co/spaces/Burcin/ExtractiveSummarizer)
 
 <p align="center">
-    <[TRY TO SUMMARIZE](https://huggingface.co/spaces/Burcin/ExtractiveSummarizer)>
+    [TRY TO SUMMARIZE](https://huggingface.co/spaces/Burcin/ExtractiveSummarizer)
 </p>
