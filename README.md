@@ -6,10 +6,10 @@ Summarizing texts is one of the sub-fields of NLP, and as the name suggests, it 
 Extractive text summarization serve most important sentences as the summary of the article based on occurance counts of words.
 Abstractive method generates its own sentences from text by using transformers (decoder -encoders), For this approaches there are several pre-trained models to use. In this project I will try
 
-To clarify, let's suppose we have a text consisting of 5 different sentences from A to E.
-A.B.C.D.E.
-Extractive == > B.D.
-Abstractive == > F.G.
+To clarify, let's suppose we have a text consisting of 5 different sentences from A to E.<br>
+A.B.C.D.E.<br>
+Extractive == > B.D.<br>
+Abstractive == > F.G.<br>
 
 I was planning to implement both approaches to summarize by using several methods. However my local machine did not allow me to import and use pre-trained models, but I still kept their scripts without outputs to show the method. 
 
