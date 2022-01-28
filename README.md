@@ -17,11 +17,10 @@ For making trials with different contents, I deployed the extractive summarizati
 
 [TRY TO SUMMARIZE](https://huggingface.co/spaces/Burcin/ExtractiveSummarizer)
 
+
 <p align="center">
-    button {
-    [TRY TO SUMMARIZE](https://huggingface.co/spaces/Burcin/ExtractiveSummarizer)
-    }
-</p>
-<p align="center">
-  <[TRY TO SUMMARIZE] src="https://huggingface.co/spaces/Burcin/ExtractiveSummarizer">
+  <b>Model Link:</b><br>
+  <a href="#">https://huggingface.co/spaces/Burcin/ExtractiveSummarizer</a> |
+
+
 </p>
