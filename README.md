@@ -20,5 +20,5 @@ For making trials with different contents, I deployed the extractive summarizati
 
 <p align="center">
   <b>Model Link:</b><br>
-  <a> [TRY TO SUMMARIZE](https://huggingface.co/spaces/Burcin/ExtractiveSummarizer)</a> 
+  <a "TRY TO SUMMARIZE" href="#">(https://huggingface.co/spaces/Burcin/ExtractiveSummarizer)</a> 
 </p>
