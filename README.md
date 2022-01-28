@@ -12,13 +12,14 @@ Extractive == > B.D.<br>
 Abstractive == > F.G.<br>
 
 I was planning to implement both approaches to summarize by using several methods. 
-For the extractive approach, I tried 3 different methods, first one is lemmitizing the words for reaching the roots of the words, so ı can count the word occurences. After obtaining word counts, I scored all sentences by summing the scores of the words contained in the sentence.  In the second method I used the same approach, but this  time by skimming the words to count word roots. And the last extractive method that I used is to calculate TF-IDF scores of the texts by calculating from 1-gram to 3-ngram word counts. To calculate IDF I treated each sentence as different documents. 
-
-For abstractive approach, my local machine did not allow me to import and use pre-trained models, but I still kept their scripts in the notebook without outputs to show the method. And I am planning to deploy it for trials. 
-
-But for the extractive part, for making trials with different contents, I deployed the extractive summarization model to the huggingface spaces page, you can follow this link below;
+For the extractive approach, I tried 3 different methods, first one is lemmitizing the words for reaching the roots of the words, so ı can count the word occurences. After obtaining word counts, I scored all sentences by summing the scores of the words contained in the sentence.  In the second method I used the same approach, but this  time by skimming the words to count word roots. And the last extractive method that I used is to calculate TF-IDF scores of the texts by calculating from 1-gram to 3-ngram word counts. To calculate IDF I treated each sentence as different documents. I deployed 2 extractive methods to the huggingface spaces page, you can follow this link below;
 
 <p align="center">
   <b>Model Link:</b><br>
   <a href="https://huggingface.co/spaces/Burcin/ExtractiveSummarizer">TRY TO SUMMARIZE</a> 
 </p>
+
+For abstractive approach, my local machine did not allow me to import and use pre-trained models, but I still kept their scripts in the notebook without outputs to show the method. And I am planning to deploy it for trials. 
+
+But for the extractive part, for making trials with different contents, 
+
